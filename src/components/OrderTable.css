@@ -1,0 +1,22 @@
+.order-table-container {
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  .order-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .order-table th,
+  .order-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .order-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    text-align: left;
+  }
+  

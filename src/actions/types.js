@@ -1,0 +1,4 @@
+export const ADD_ORDER = 'ADD_ORDER';
+export const MOVE_TO_NEXT_STAGE = 'MOVE_TO_NEXT_STAGE';
+export const MOVE_TO_PICKED_STAGE = 'MOVE_TO_PICKED_STAGE';
+export const CANCEL_ORDER = 'CANCEL_ORDER';
